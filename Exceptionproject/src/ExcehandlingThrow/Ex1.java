@@ -33,6 +33,7 @@ public class Ex1 {
 			System.out.println("--------");
 			System.out.println("exception");
 			System.out.println("aaaaaaa");
+			System.out.println("ccccc");
 		  } 
 	}
 }
